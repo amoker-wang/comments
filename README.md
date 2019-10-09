@@ -1,2 +1,2 @@
-# comments
-comments repo for blog
+## comments
+>hexo config and  gittalk issues
